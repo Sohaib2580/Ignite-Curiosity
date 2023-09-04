@@ -4,7 +4,6 @@
 
 
 
-
 <img width="52" alt="Screenshot 2023-08-11 200238" src="https://github.com/Sohaib2580/Sohaib2580/assets/133264613/5e55f908-84c2-4007-9103-4f2d271a5373">
 
 3. When you press the more options, menu will open up then press on shifts.
