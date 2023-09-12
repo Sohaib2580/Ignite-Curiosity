@@ -1,6 +1,6 @@
 # How To Clock In and Clock Out in MS Teams:
 1. First of all open your MS Teams (Work or School version) on your desktop.
-2. Then on the left side of the MS Teams window if there is no icon for shifts then click on more options as mentioned in the picture below.
+2. Then on the left side of the MS Teams window if there is no icon for shifts then click on more options as mentioned in the picture below. 
 
 <img width="52" alt="Screenshot 2023-08-11 200238" src="https://github.com/Sohaib2580/Sohaib2580/assets/133264613/5e55f908-84c2-4007-9103-4f2d271a5373">
 
